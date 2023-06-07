@@ -1,1 +1,1 @@
-# devops-cicd
+In this project we will discussed How to install devops tools like jenkins maven sonarqube nexus tomcat and how write jenkins declarative pipeline for continuous integration and continuous deployment with all the stages.
